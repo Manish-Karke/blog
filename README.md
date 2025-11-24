@@ -1,3 +1,15 @@
+## Homepage
+
+![Homepage Screenshot](./public/1.png)
+
+## loginpage
+
+![loginpage Screenshot](./public/2.png)
+
+## dashboard
+
+![dashboard Screenshot](./public/3.png)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
