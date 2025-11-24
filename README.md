@@ -4,11 +4,11 @@
 
 ## loginpage
 
-![loginpage Screenshot](./public/2.png)
+![loginpage Screenshot](./public/3.png)
 
 ## dashboard
 
-![dashboard Screenshot](./public/3.png)
+![dashboard Screenshot](./public/2.png)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
